@@ -1,1 +1,1 @@
-# soapnote-public
+# public soapnote templates, calculators, and checklists
